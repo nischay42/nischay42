@@ -38,7 +38,7 @@
 ## 🔗 Connect With Me
 <p align="left">
   <strong>Twitter:</strong> <a href="https://x.com/Nischay_42">@Nischay_42</a><br>
-  <strong>Portfolio</strong> <a href="https://nischay.thedev.me"></a><br>
+  <a href="https://nischay.thedev.me"><strong>Portfolio</strong></a><br>
 </p>
 
 ---
