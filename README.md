@@ -35,12 +35,4 @@
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <strong>Twitter:</strong> <a href="https://x.com/Nischay_42">@Nischay_42</a><br>
-  <a href="https://nischay.thedev.me"><strong>Portfolio</strong></a><br>
-</p>
-
----
-
 ⭐ **Thanks for visiting!**  
