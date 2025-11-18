@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - Passionate **Frontend Developer** — HTML, CSS, JavaScript & React  
-- Currently learning **Backend Development** (Node.js, Express, MongoDB, Mongoose)  
+- Currently learning **Backend Development**  
 - Love building **UI, animations**, and now starting **full-stack apps**  
 - Always learning & levelling up 🚀  
 
@@ -15,13 +15,13 @@
 
 ### 🌐 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=gsap" height="60" />
 </p>
 
 ---
 
-### 🖥️ **Backend (Learning)**
+### 🖥️ **Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="60" />
 </p>
@@ -37,16 +37,10 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://x.com/Nischay_42">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nischay.thedev.me">
-    <img src="https://skillicons.dev/icons?i=portfolio" height="50" />
-  </a>
+  <strong>Twitter:</strong> <a href="https://x.com/Nischay_42">@Nischay_42</a><br>
+  <strong>Portfolio</strong> <a href="https://nischay.thedev.me"></a><br>
 </p>
 
 ---
 
 ⭐ **Thanks for visiting!**  
-Let’s build something awesome 🚀
