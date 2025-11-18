@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Nischay Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#4e9af1;">Nischay</span></h1>
 <h3 align="center">Frontend Developer • Learning Backend • Building Cool Stuff</h3>
 
