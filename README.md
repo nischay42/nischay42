@@ -24,7 +24,9 @@
 ### 🖥️ **Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="60" />
+  <img src="mongoose-logo.svg" height="60" />
 </p>
+
 
 ---
 
