@@ -1,5 +1,5 @@
 <svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" fill="#880000" font-size="40" font-family="Georgia, serif"
+  <text x="40%" y="50%" fill="#880000" font-size="40" font-family="Georgia, serif"
         font-weight="500" text-anchor="middle" dominant-baseline="central">
     mongoose
   </text>
